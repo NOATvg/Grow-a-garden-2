@@ -1,6 +1,6 @@
 -- Key-protected script loader (dark modern style GUI)
 -- Key: 68170246I$6528
--- Loads on success: https://pastefy.app/RjaYmAo3/raw
+-- Loads on success: https://pastefy.app/fKFWQB4I/raw
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
@@ -19,7 +19,7 @@ local DISCORD_LINK = "https://discord.gg/7tqF4sDReU"
 
 local function runMainScript()
     -- Automatically loads the new script on correct key
-    loadstring(game:HttpGet("https://pastefy.app/RjaYmAo3/raw", true))()
+    loadstring(game:HttpGet("https://pastefy.app/fKFWQB4I/raw", true))()
 end
 
 -- ============= GUI Creation =============
